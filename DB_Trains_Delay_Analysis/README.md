@@ -8,3 +8,6 @@ Key Features:
 📊 Charts and Insights:
 Highlight the busiest states and stations.
 Visualize delay patterns across time and location.
+
+Preview:
+![Overview](DB_Trains_Delay_Analysis/db delays ss.png)
