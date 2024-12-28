@@ -10,4 +10,4 @@ Highlight the busiest states and stations.
 Visualize delay patterns across time and location.
 
 Preview:
-![Overview](DB_Trains_Delay_Analysis/DB_Trains_Delay_Analysis/db_delays_ss.png)
+![Overview](db_delays_ss.png)
